@@ -1,0 +1,36 @@
+.navbar{
+    background: rgb(20,20,20);
+    height: 5rem;
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top:0;
+    z-index:3;
+   
+
+}
+
+.side{
+    cursor: pointer;
+}
+.side:hover{
+    color: skyblue;
+}
+
+.MainMenuItem{
+    margin:1rem;
+    cursor: pointer;
+
+}
+
+.MainMenuItem:hover{
+        color: skyblue;
+        padding-bottom: 0.5rem;
+        border: bottom 5px solid skyblue;
+        
+}

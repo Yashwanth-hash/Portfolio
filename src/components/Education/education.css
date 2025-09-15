@@ -1,0 +1,33 @@
+.education-container {
+  padding: 40px;
+  text-align: center;
+  font-family: Poppins, sans-serif;
+  color: #f0f0f0; 
+}
+
+.education-container h2 {
+  margin-bottom: 30px;
+  color: #ffffff; 
+}
+
+.education-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+
+.education-card {
+  background: rgb(30, 30, 30); 
+  border-radius: 12px;
+  padding: 20px;
+  width: 320px;
+  box-shadow: 0px 4px 10px rgba(0,0,0,0.6);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.education-card h3 {
+  margin: 0 0 10px;
+  color: #ffff
+}
