@@ -24,7 +24,7 @@ export function Image(){
 
 export function Buttons(){
     return(
-        <div class="Links"> 
+        <div class="links"> 
         <span><a href="https://github.com/Yashwanth-hash" rel="noopener noreferrer" className="git"><FaGithub size={40} /></a></span>
         <span><a href="https://www.linkedin.com/in/yashwanth-kumar-212a0632a/" rel="noopener noreferrer" className='linkedin' ><FaLinkedin size={40}/></a></span>
         <span><a href="https://www.instagram.com/_yashwanth_its_me/" rel="noopener noreferrer" className='instagram'><FaInstagram size={40}/></a></span>
