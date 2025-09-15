@@ -26,7 +26,7 @@ export function Tiles() {
 
                 <div className="tile">
                     <img src={rps} alt="rock-paper-scissor img" />
-                    <p>This is just a normal page built while learning HTML and JavaScript.</p>
+                    <p>This is a rock-paper-scissor game built while learning HTML and JavaScript.</p>
                     <div className="tech-stack">
     <span className="tag">HTML</span>
     
