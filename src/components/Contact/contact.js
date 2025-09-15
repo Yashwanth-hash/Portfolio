@@ -1,6 +1,6 @@
 import React from "react";
 import './contact.css';
-import emailjs from "emailjs-com";
+import emailjs from "@emailjs/browser";
 
 const Contact=() => {
   function sendEmail(e) {
